@@ -10,7 +10,7 @@
 
 ## About Me
 
-I’m **Avishek Kumar Jha**, a BCA student focused on **building strong programming fundamentals** before chasing buzzwords.
+I’m **Avishek Kumar Jha**, a MCA student focused on **building strong programming fundamentals** before chasing buzzwords.
 
 I work methodically:
 - Java fundamentals and OOP
