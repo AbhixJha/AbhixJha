@@ -117,5 +117,6 @@ This project is built as a **frontend foundation** and is designed to be integra
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=120&section=footer" />
+  <br/>
   <sub>Frontend today. Java full stack tomorrow.</sub>
 </div>
