@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=200&section=header&text=Avishek%20Kumar%20Jha&fontSize=42&fontColor=38bdf8&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=MCA+Student;Aspiring+Java+Full+Stack+Developer;Frontend+Completed+%7C+Backend+Next;Building+Real+World+Applications;Learning+with+Discipline+and+Clarity" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=MCA+Student;Aspiring+Java+Full+Stack+Developer;Frontend+Completed+%7C+Backend+Next;Building+Real+World+Applications;Strong+in+Java+and+MySQL" />
 
 </div>
 
@@ -10,40 +10,37 @@
 
 ## 👋 About Me
 
-I’m **Avishek Kumar Jha**, an **MCA student** with a clear goal:  
+I’m **Avishek Kumar Jha**, an **MCA student** with a clear and focused goal:  
 to become a **Java Full Stack Developer**.
 
-I am currently focused on **frontend development**, and once it is fully solid, I will move into **backend development using Java-based technologies**.
-
-I prefer:
-- strong fundamentals over shortcuts  
-- real projects over demo apps  
-- steady progress over hype  
+I have completed my **BCA with an 8.2 CGPA**, and I approach learning with discipline:
+- fundamentals before frameworks  
+- real projects over demo code  
+- structured progress, not shortcuts  
 
 ---
 
-## 🎯 Career Direction
+## 🎯 Career Focus
 
-- Target Role: **Java Full Stack Developer**
-- Current Phase: **Frontend Development**
-- Next Phase: **Backend (Java, databases, APIs)**
+- **Target Role:** Java Full Stack Developer  
+- **Current Phase:** Frontend Development  
+- **Next Phase:** Backend Development (Java, APIs, Databases)
 
-I am deliberately building skills in phases to ensure depth, not surface-level knowledge.
+I am deliberately completing frontend first and then moving to backend to ensure depth and clarity.
 
 ---
 
-## 🚀 Projects
+## 🚀 Major Project
 
-### 🧩 All-in-One Frontend Application
-A multi-feature frontend project that includes:
-- Learning & teaching modules
-- Grocery shopping interface
-- Fashion & product browsing UI
-- Clean layouts and user-focused navigation
+### 🧩 All-in-One Frontend Application (AIN1 Project)
 
-This project is designed as a **foundation** for future backend integration.
+A comprehensive frontend application that includes:
+- **Learning & Teaching module**
+- **Grocery shopping interface**
+- **Fashion & product browsing**
+- User-friendly UI and structured navigation
 
-(Backend services will be added in later phases.)
+This project is built as a **frontend foundation** and is designed to be integrated with backend services in the next phase.
 
 ---
 
@@ -53,29 +50,42 @@ This project is designed as a **foundation** for future backend integration.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,c,cpp&perline=8&theme=dark" />
 </p>
 
+- **Programming:** Java, C, C++  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub  
+
 ---
 
 ## 📂 Repositories
 
 - **frontend-practice**  
-  HTML, CSS, JavaScript, and React practice with structured examples and mini projects.
+  Frontend practice including HTML, CSS, JavaScript, React, and the AIN1 project.
 
 - **java-practice-basics**  
   Core Java programs covering fundamentals, OOP, arrays, strings, and logic building.
-
-Each repository reflects **consistent learning and clean structure**.
 
 ---
 
 ## 📜 Certifications & Industry Exposure
 
-- **Wipro Learning Program** – Certified  
-- **Network Bulls – Industry Visit Certificate**  
-  (Exposure to networking concepts and real-world infrastructure)
-- **Simplilearn Certificates** – Multiple courses completed  
-- **IB Certificates** – Selected academic / industry programs  
+> Click any certificate to view it.
 
-(Only genuine certifications are listed.)
+- **Wipro LearnET / TalentNext Program**  
+  👉 [View Certificate](LINK_HERE)
+
+- **IBM Certifications (Multiple)**  
+  👉 [View Certificate 1](LINK_HERE)  
+  👉 [View Certificate 2](LINK_HERE)
+
+- **Simplilearn Certifications**  
+  👉 [View Certificate 1](LINK_HERE)  
+  👉 [View Certificate 2](LINK_HERE)
+
+- **Network Bulls – Industry Visit (Networking Exposure)**  
+  👉 [View Certificate](LINK_HERE)
+
+(Only genuine and completed certifications are listed.)
 
 ---
 
@@ -84,10 +94,6 @@ Each repository reflects **consistent learning and clean structure**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhixJha&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://streak-stats.demolab.com?user=AbhixJha&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhixJha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -110,5 +116,5 @@ Each repository reflects **consistent learning and clean structure**.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=120&section=footer" />
-  <sub>Focused today. Full stack tomorrow.</sub>
+  <sub>Frontend today. Java full stack tomorrow.</sub>
 </div>
