@@ -1,69 +1,89 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:020617&height=180&section=header&text=Avishek%20Kumar%20Jha&fontSize=40&fontColor=38bdf8&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;Exploring+the+Backend+World;Learning+React;Building+Step+by+Step" />
-
+  <img width="180" src="https://github.com/user-attachments/assets/f9e2d7c9-5d1d-4bf6-bd6c-80d3532ee076" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58a6ff&center=true&vCenter=true&width=650&lines=Frontend+Developer;Exploring+Backend+Concepts;Currently+Learning+React;Focused+on+Strong+Fundamentals;Building+Step+by+Step" />
 </div>
 
 ---
 
-## 👋 Hi
+## About Me
 
-I’m **Avishek Kumar Jha**.
+I’m **Avishek Kumar Jha**, a developer focused on building **strong fundamentals in programming and web development**.
 
-A frontend developer focused on **clean UI, strong fundamentals, and real learning**, currently exploring backend concepts to grow into a well-rounded developer.
+I believe in:
+- learning concepts deeply before jumping to frameworks  
+- writing readable, structured code  
+- improving through consistent hands-on practice  
 
-I don’t rush stacks.  
-I build foundations.
-
----
-
-## 🌱 Current Focus
-
-- Frontend development (HTML, CSS, JavaScript)
-- Learning **React** step by step
-- Strengthening **Java fundamentals**
-- Understanding how frontend connects with backend systems
+Currently, my main focus is **frontend development**, while gradually exploring backend concepts to understand how complete systems work.
 
 ---
 
-## 🛠 Languages & Tools
+## What I’m Working On
+
+- Strengthening **HTML, CSS, and JavaScript**
+- Learning **React** with a fundamentals-first approach
+- Practicing **Core Java** for logic building and OOP
+- Understanding how frontend communicates with backend systems
+
+---
+
+## Skills & Tools (Current)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,mysql,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,mysql,react,git,github&perline=8&theme=dark" />
 </p>
 
 ---
 
-## 📂 My Work
+## Repositories
+
+These repositories represent **active learning and consistent practice**:
 
 - **java-practice-basics**  
-  Core Java practice programs covering fundamentals, OOP concepts, arrays, strings, and logic building.
+  Core Java programs covering fundamentals, OOP concepts, arrays, strings, and basic problem-solving.
 
 - **frontend-practice**  
   HTML, CSS, and JavaScript practice with small, focused frontend projects.
 
-These repositories reflect **consistent learning**, not exaggerated claims.
+Each repository is structured to reflect clarity, progression, and improvement over time.
 
 ---
 
-## 📫 How to Reach Me
+## GitHub Activity
 
 <p align="center">
-  <a href="mailto:avishekjha.official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-avishekjha.official@gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhixJha&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhixJha&theme=dark&hide_border=true" height="165"/>
+</p>
+
+---
+
+## Certifications
+
+- Samsung Innovation Campus – Big Data Program (Ongoing)
+- Academic coursework and verified online certifications
+
+(Only genuine and completed certifications are listed.)
+
+---
+
+## Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/avishek-kumar-jha-1a96082a7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Avishek%20Kumar%20Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Avishek%20Kumar%20Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/abhixjha/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@abhixjha-020617?style=for-the-badge&logo=instagram&logoColor=E1306C" />
+    <img src="https://img.shields.io/badge/Instagram-@abhixjha-020617?style=for-the-badge&logo=instagram&logoColor=E1306C"/>
+  </a>
+  <a href="mailto:avishekjha.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-avishekjha.official@gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:020617&height=120&section=footer" />
+  <sub>Building quietly. Improving consistently.</sub>
 </div>
