@@ -1,70 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=200&section=header&text=Avishek%20Kumar%20Jha&fontSize=42&fontColor=38bdf8&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:020617&height=180&section=header&text=Avishek%20Kumar%20Jha&fontSize=40&fontColor=38bdf8&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer+in+Progress;Strong+in+Java+Fundamentals;Learning+by+Building%2C+Not+Pretending;Discipline+%3E+Hype" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;Exploring+the+Backend+World;Learning+React;Building+Step+by+Step" />
 
 </div>
 
 ---
 
-## About Me
+## 👋 Hi
 
-I’m **Avishek Kumar Jha**, a MCA student focused on **building strong programming fundamentals** before chasing buzzwords.
+I’m **Avishek Kumar Jha**.
 
-I work methodically:
-- Java fundamentals and OOP
-- Frontend basics with HTML, CSS, and JavaScript
-- Small, focused projects that actually work
+A frontend developer focused on **clean UI, strong fundamentals, and real learning**, currently exploring backend concepts to grow into a well-rounded developer.
 
-I don’t rush stacks. I build foundations.
+I don’t rush stacks.  
+I build foundations.
 
 ---
 
-## Tech Stack (Current)
+## 🌱 Current Focus
+
+- Frontend development (HTML, CSS, JavaScript)
+- Learning **React** step by step
+- Strengthening **Java fundamentals**
+- Understanding how frontend connects with backend systems
+
+---
+
+## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,mysql,react&theme=dark" />
 </p>
 
 ---
 
-## Repositories
+## 📂 My Work
 
-Here’s what I’m actively maintaining:
+- **java-practice-basics**  
+  Core Java practice programs covering fundamentals, OOP concepts, arrays, strings, and logic building.
 
-- **Java Practice Basics**  
-  Core Java programs covering basics, OOP, arrays, strings, and DSA fundamentals.
+- **frontend-practice**  
+  HTML, CSS, and JavaScript practice with small, focused frontend projects.
 
-- **Frontend Practice**  
-  HTML, CSS, JavaScript fundamentals with small vanilla JS projects.
-
-Each repository is structured, honest, and focused on learning—not pretending to be production-grade.
+These repositories reflect **consistent learning**, not exaggerated claims.
 
 ---
 
-## Certificates
-
-- Samsung Innovation Campus – Big Data Program (In Progress)  
-- Academic coursework and hands-on practice projects
-
-(More will be added only when earned.)
-
----
-
-## Connect With Me
+## 📫 How to Reach Me
 
 <p align="center">
+  <a href="mailto:avishekjha.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-avishekjha.official@gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
   <a href="https://www.linkedin.com/in/avishek-kumar-jha-1a96082a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Avishek%20Kumar%20Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/abhixjha/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@abhixjha-111827?style=for-the-badge&logo=instagram&logoColor=E1306C" />
+    <img src="https://img.shields.io/badge/Instagram-@abhixjha-020617?style=for-the-badge&logo=instagram&logoColor=E1306C" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:020617&height=120&section=footer" />
 </div>
