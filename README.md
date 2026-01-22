@@ -1,27 +1,64 @@
-<h1 align="center">Hi 👋, I'm Avishek Kumar Jha</h1>
-<h3 align="center">Front end developer exploring the Backend world</h3>
+<!-- HEADER -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhixjha&label=Profile%20views&color=0e75b6&style=flat" alt="abhixjha" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0ea5e9&height=200&section=header&text=Avishek%20Kumar%20Jha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhixjha" alt="abhixjha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **avishekjha.official@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/avishek-kumar-jha-1a96082a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avishek-kumar-jha-1a96082a7/" height="30" width="40" /></a>
-<a href="https://instagram.com/abhixjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhixjha" height="30" width="40" /></a>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;Exploring+Backend+World;React+Learner;Building+Clean+and+Scalable+UI" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhixjha&show_icons=true&locale=en&layout=compact" alt="abhixjha" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhixjha&show_icons=true&locale=en" alt="abhixjha" /></p>
+## 👋 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhixjha&" alt="abhixjha" /></p>
+I’m **Avishek Kumar Jha**, a front-end developer focused on building clean, responsive, and user-centric interfaces.  
+Currently expanding into backend development to become a **full-stack-capable engineer**, not a tutorial addict.
+
+I care about:
+- Readable code
+- Practical projects
+- Skills that survive outside college
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,mysql,react&theme=dark" />
+</p>
+
+---
+
+## 🚀 What I’m Working On
+
+- Strengthening **React fundamentals** (state, hooks, component design)
+- Writing **real projects**, not copy-paste clones
+- Learning backend concepts that actually matter (APIs, DBs, auth)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avishekjha&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishekjha&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## 📫 Reach Me
+
+<p align="center">
+  <a href="mailto:avishekjha.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-avishekjha.official@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:4f46e5&height=120&section=footer" />
+</div>
