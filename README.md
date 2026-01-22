@@ -69,23 +69,21 @@ This project is built as a **frontend foundation** and is designed to be integra
 
 ## 📜 Certifications & Industry Exposure
 
-> Click any certificate to view it.
 
 - **Wipro LearnET / TalentNext Program**  
-  👉 [View Certificate](https://drive.google.com/drive/recent?dmr=1&ec=wgc-drive-globalnav-goto)
+  👉 [View Certificate](https://drive.google.com/file/d/16LgLmQPEaKt1dbARsg98Vqn7CHqP8jx2/view?usp=sharing)
 
-- **IBM Certifications (Multiple)**  
-  👉 [View Certificate 1](LINK_HERE)  
-  👉 [View Certificate 2](LINK_HERE)
+- **IBM Certifications**  
+  👉 [View Certificate 1](https://drive.google.com/file/d/1ACcGEy3CW93NxJOkUYbtds9lA3pcqyne/view?usp=sharing)  
 
 - **Simplilearn Certifications**  
-  👉 [View Certificate 1](LINK_HERE)  
-  👉 [View Certificate 2](LINK_HERE)
+  👉 [View Certificate 1](https://drive.google.com/file/d/10sENaQjsiDmRUQf6u1VrA04kusmXvJd-/view?usp=sharing)  
+  👉 [View Certificate 2](https://drive.google.com/file/d/12RzRBDqinRD-Xk55JtgVJVyPbs0TCC1R/view?usp=sharing)
 
 - **Network Bulls – Industry Visit (Networking Exposure)**  
-  👉 [View Certificate](LINK_HERE)
+  👉 [View Certificate](https://drive.google.com/file/d/1tGpIlZfZIq8k1FmOwHhz46NAIVx-KE0v/view?usp=sharing)
 
-(Only genuine and completed certifications are listed.)
+
 
 ---
 
