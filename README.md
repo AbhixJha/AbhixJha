@@ -72,7 +72,7 @@ This project is built as a **frontend foundation** and is designed to be integra
 > Click any certificate to view it.
 
 - **Wipro LearnET / TalentNext Program**  
-  👉 [View Certificate](LINK_HERE)
+  👉 [View Certificate](https://drive.google.com/drive/recent?dmr=1&ec=wgc-drive-globalnav-goto)
 
 - **IBM Certifications (Multiple)**  
   👉 [View Certificate 1](LINK_HERE)  
