@@ -70,6 +70,9 @@ This project is built as a **frontend foundation** and is designed to be integra
 ## 📜 Certifications & Industry Exposure
 
 
+
+- **Samsung Innovation Campus (SIC)** – Assessment Test Qualified | Program Ongoing 
+
 - **Wipro LearnET / TalentNext Program**  
   👉 [View Certificate](https://drive.google.com/file/d/16LgLmQPEaKt1dbARsg98Vqn7CHqP8jx2/view?usp=sharing)
 
