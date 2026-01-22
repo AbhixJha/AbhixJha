@@ -1,34 +1,37 @@
 <div align="center">
-  <img width="180" src="https://github.com/user-attachments/assets/f9e2d7c9-5d1d-4bf6-bd6c-80d3532ee076" />
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58a6ff&center=true&vCenter=true&width=650&lines=Frontend+Developer;Exploring+Backend+Concepts;Currently+Learning+React;Focused+on+Strong+Fundamentals;Building+Step+by+Step" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=200&section=header&text=Avishek%20Kumar%20Jha&fontSize=42&fontColor=38bdf8&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer;Exploring+Backend+World;Currently+Learning+React;Focused+on+Strong+Fundamentals;Building+Consistently+Every+Day" />
+
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I’m **Avishek Kumar Jha**, a developer focused on building **strong fundamentals in programming and web development**.
+I’m **Avishek Kumar Jha**, a developer focused on **frontend development** with a strong interest in understanding how backend systems work.
 
 I believe in:
-- learning concepts deeply before jumping to frameworks  
-- writing readable, structured code  
-- improving through consistent hands-on practice  
+- mastering fundamentals before frameworks  
+- writing clean, readable, and structured code  
+- learning by building, not pretending  
 
-Currently, my main focus is **frontend development**, while gradually exploring backend concepts to understand how complete systems work.
-
----
-
-## What I’m Working On
-
-- Strengthening **HTML, CSS, and JavaScript**
-- Learning **React** with a fundamentals-first approach
-- Practicing **Core Java** for logic building and OOP
-- Understanding how frontend communicates with backend systems
+Currently, I’m strengthening my frontend skills while gradually exploring backend concepts to grow into a well-rounded developer.
 
 ---
 
-## Skills & Tools (Current)
+## 🌱 Current Focus
+
+- HTML, CSS, JavaScript (core frontend)
+- Learning **React** step by step
+- Core **Java** for logic building and OOP
+- Understanding frontend–backend interaction
+- Improving Git & GitHub workflow
+
+---
+
+## 🛠 Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,mysql,react,git,github&perline=8&theme=dark" />
@@ -36,54 +39,59 @@ Currently, my main focus is **frontend development**, while gradually exploring 
 
 ---
 
-## Repositories
+## 📂 Repositories
 
-These repositories represent **active learning and consistent practice**:
+These repositories reflect **real practice and consistent learning**:
 
 - **java-practice-basics**  
   Core Java programs covering fundamentals, OOP concepts, arrays, strings, and basic problem-solving.
 
 - **frontend-practice**  
-  HTML, CSS, and JavaScript practice with small, focused frontend projects.
+  Frontend practice with HTML, CSS, and JavaScript, including small vanilla JS projects.
 
-Each repository is structured to reflect clarity, progression, and improvement over time.
+Each repository is structured, maintained, and improved over time.
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhixJha&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhixJha&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhixJha&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=AbhixJha&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhixJha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Certifications
+## 🎓 Certificates
 
 - Samsung Innovation Campus – Big Data Program (Ongoing)
-- Academic coursework and verified online certifications
+- Academic coursework and verified learning certificates
 
-(Only genuine and completed certifications are listed.)
+(Only genuine and relevant certifications are listed.)
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
+  <a href="mailto:avishekjha.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-avishekjha.official@gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
   <a href="https://www.linkedin.com/in/avishek-kumar-jha-1a96082a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Avishek%20Kumar%20Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/abhixjha/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@abhixjha-020617?style=for-the-badge&logo=instagram&logoColor=E1306C"/>
   </a>
-  <a href="mailto:avishekjha.official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-avishekjha.official@gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-  </a>
 </p>
 
 ---
 
 <div align="center">
-  <sub>Building quietly. Improving consistently.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=120&section=footer" />
+  <sub>Quiet work. Real progress.</sub>
 </div>
